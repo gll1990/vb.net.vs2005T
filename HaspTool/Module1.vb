@@ -11,7 +11,7 @@
      ByVal lpString As String, ByVal lpFileName As String) As Int32
 #End Region
 
-    '按区域读                           
+    '按区域读     1                      
     Private Function ReadIni(ByVal lpSectionName As String, ByVal lpKeyName As String, _
                              ByVal lpDefault As String, ByVal nSize As Integer, ByVal lpFilePath As String) As String
         Try
