@@ -1,7 +1,7 @@
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ' Copyright (C) 2014, SafeNet, Inc. All rights reserved.
 '
-'
+'马永立在这里添加了一行测试
 '
 ' 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -62,3 +62,5 @@ Public Class HaspDemoC2v
         Return info
     End Function
 End Class
+
+
